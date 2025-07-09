@@ -4,7 +4,7 @@ This project tackles the challenge of classifying **land cover types** using **N
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 > Predict the **type of land cover** (e.g., forest, urban, water, cropland, etc.) using time-series NDVI data and ground-truth labels from OSM.
 
@@ -53,7 +53,7 @@ This project tackles the challenge of classifying **land cover types** using **N
 ---
 
 
-## 🔄 Model Workflow (Mermaid)
+## Model Workflow (Mermaid)
 
 ```mermaid
 graph TD
